@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hritujeet
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Js and frameworks
+- 👀 I’m interested in Web Development and ML
+- 🌱 I’m currently working in Web development
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me sharmahritujeet@gmail.com
 
