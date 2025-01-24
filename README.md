@@ -12,5 +12,5 @@
 #### I am currently 15 and looking to collaborate on GitHub. As of know, I am learning more practices and techniques used to build robust applications in React and NextJS
 
 # How to reach me
-Email : sharmahritujeet@gmail.com
-Twitter (X) : https://x.com/HritujeetS93526?t=Ol0Z958xHE3AxtVhOVkBmQ&s=09
+1. Email : sharmahritujeet@gmail.com
+2. Twitter (X) : https://x.com/HritujeetS93526?t=Ol0Z958xHE3AxtVhOVkBmQ&s=09
