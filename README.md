@@ -1,5 +1,5 @@
 # Hey, there!!
-### My name is Hritujeet Sharma and I am an enthusiastic programmer with keen intrest in Web development.
+#### My name is Hritujeet Sharma and I am an enthusiastic programmer with keen intrest in Web development.
 
 ## Tech Stack
 1. JavaScript 
@@ -9,7 +9,7 @@
 5. Node.js
 6. NextJS
 
-### I am currently 15 and looking to collaborate on GitHub. As of know, I am learning more practices and techniques used to build robust applications in React and NextJS
+#### I am currently 15 and looking to collaborate on GitHub. As of know, I am learning more practices and techniques used to build robust applications in React and NextJS
 
 # How to reach me
 Email : sharmahritujeet@gmail.com
