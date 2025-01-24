@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Hritujeet
-- 👀 I’m interested in Web Development and ML
-- 🌱 I’m currently working in Web development
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me sharmahritujeet@gmail.com
+# Hey, there!!
+### My name is Hritujeet Sharma and I am an enthusiastic programmer with keen intrest in Web development.
 
-<!---
-Hritujeet/Hritujeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack
+1. JavaScript 
+2. React 
+3. Express 
+4. MongoDB
+5. Node.js
+6. NextJS
+
+### I am currently 15 and looking to collaborate on GitHub. As of know, I am learning more practices and techniques used to build robust applications in React and NextJS
+
+# How to reach me
+Email : sharmahritujeet@gmail.com
