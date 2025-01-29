@@ -8,6 +8,8 @@
 4. MongoDB
 5. Node.js
 6. NextJS
+7. Typescript 
+8. Prisma
 
 #### I am currently 15 and looking to collaborate on GitHub. As of know, I am learning more practices and techniques used to build robust applications in React and NextJS
 
