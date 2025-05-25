@@ -6,10 +6,10 @@
 
 Here's a glimpse into the technologies I'm currently working with:
 
-1.  **Languages:** JavaScript, TypeScript
-2.  **Front-End Frameworks/Libraries:** React, Next.js, Tailwind CSS
-3.  **Back-End Technologies:** Node.js, Express, NextJS API Routes, Next Auth v5, Prisma
-4.  **Databases:** MongoDB, PostgreSQL
+1.  **Languages:** JavaScript, TypeScript, C++, Python
+2.  **Front-End Frameworks/Libraries [Web Development]:** React, Next.js, Tailwind CSS
+3.  **Back-End Technologies [Web Development]:** Node.js, Express, NextJS API Routes, Next Auth v5, Prisma
+4.  **Databases [Web development and Data Science]:** MongoDB, PostgreSQL
 
 #### 🌱 Currently, I'm focused on deepening my understanding of best practices and advanced techniques for building robust and scalable applications using React and Next.js. I'm eager to collaborate on projects where I can apply and expand these skills.
 
