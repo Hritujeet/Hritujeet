@@ -1,4 +1,4 @@
-# 👋 Hello there!
+# 👋 Hey, there!
 
 #### My name is Hritujeet Sharma, and I'm an enthusiastic programmer with a deep interest in crafting engaging web experiences.
 
